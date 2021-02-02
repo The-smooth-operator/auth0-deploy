@@ -61,7 +61,7 @@ function (user, context, callback) {
         'Nameid': 'email',
         'email': 'email',
         'firstName': 'given_name',
-        'lastName': 'family_name'
+        'lastName': 'this-will-make-rules-break'
       };
 
       break;
